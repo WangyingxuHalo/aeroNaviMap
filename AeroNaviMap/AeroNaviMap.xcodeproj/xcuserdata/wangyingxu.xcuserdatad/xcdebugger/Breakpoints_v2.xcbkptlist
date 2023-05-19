@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1A80F916-8111-43C7-82F9-8BF7AB3906B6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2B883A84-A439-4BFE-A08A-6B152CC39133"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "View/InfoPanelView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "2B883A84-A439-4BFE-A08A-6B152CC39133 - 145dedd986a9ba41"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI._ConditionalContent&lt;SwiftUI._ConditionalContent&lt;SwiftUI._ConditionalContent&lt;AeroNaviMap.AirportInfoPanel, AeroNaviMap.NavInfoPanel&gt;, SwiftUI._ConditionalContent&lt;AeroNaviMap.VorInfoPanel, AeroNaviMap.NdbInfoPanel&gt;&gt;, SwiftUI.Text&gt; in AeroNaviMap.InfoPanelView.body.getter : some"
+                  moduleName = "AeroNaviMap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wangyingxu/Desktop/duke/ece/2022%20Fall/ECE%20564/projects/final%20project/currProj/aeronavimap/AeroNaviMap/View/InfoPanelView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "608">
+               </Location>
+               <Location
+                  uuid = "2B883A84-A439-4BFE-A08A-6B152CC39133 - 145dedd986a9ba41"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI._ConditionalContent&lt;SwiftUI._ConditionalContent&lt;SwiftUI._ConditionalContent&lt;AeroNaviMap.AirportInfoPanel, AeroNaviMap.NavInfoPanel&gt;, SwiftUI._ConditionalContent&lt;AeroNaviMap.VorInfoPanel, AeroNaviMap.NdbInfoPanel&gt;&gt;, SwiftUI.Text&gt; in AeroNaviMap.InfoPanelView.body.getter : some"
+                  moduleName = "AeroNaviMap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wangyingxu/Desktop/duke/ece/2022%20Fall/ECE%20564/projects/final%20project/currProj/aeronavimap/AeroNaviMap/View/InfoPanelView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "836">
+               </Location>
+               <Location
+                  uuid = "2B883A84-A439-4BFE-A08A-6B152CC39133 - 145dedd986a9ba41"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI._ConditionalContent&lt;SwiftUI._ConditionalContent&lt;SwiftUI._ConditionalContent&lt;AeroNaviMap.AirportInfoPanel, AeroNaviMap.NavInfoPanel&gt;, SwiftUI._ConditionalContent&lt;AeroNaviMap.VorInfoPanel, AeroNaviMap.NdbInfoPanel&gt;&gt;, SwiftUI.Text&gt; in AeroNaviMap.InfoPanelView.body.getter : some"
+                  moduleName = "AeroNaviMap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wangyingxu/Desktop/duke/ece/2022%20Fall/ECE%20564/projects/final%20project/currProj/aeronavimap/AeroNaviMap/View/InfoPanelView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "1600">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5E4A1EA0-88E9-4257-A4EF-E09C6BE8F90C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "View/InfoPanelView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "01D4073C-005E-465B-8D2E-1FE508D7AEBB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AeroNaviMap/HomeView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "01D4073C-005E-465B-8D2E-1FE508D7AEBB - d222a2260b942f0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; SwiftUI.TupleView&lt;(Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;, AeroNaviMap.AeroNaviMapView, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;, AeroNaviMap.AeroNaviMapView, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0&gt;)&gt;&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;, AeroNaviMap.AeroNaviMapView, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0&gt;)&gt;&gt;)&gt;&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.background&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ShapeStyle&gt;(_: &#x3c4;_1_0, ignoresSafeAreaEdges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0&gt;)&gt; in closure #1 (SwiftUI.GeometryProxy) -&gt; SwiftUI.ZStack&lt;SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;, AeroNaviMap.AeroNaviMapView, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0&gt;)&gt;&gt;)&gt;&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.background&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ShapeStyle&gt;(_: &#x3c4;_1_0, ignoresSafeAreaEdges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0&gt;)&gt;&gt; in AeroNaviMap.HomeView.body.getter : some"
+                  moduleName = "AeroNaviMap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wangyingxu/Desktop/duke/ece/2022%20Fall/ECE%20564/projects/final%20project/currProj/aeronavimap/AeroNaviMap/AeroNaviMap/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "620">
+               </Location>
+               <Location
+                  uuid = "01D4073C-005E-465B-8D2E-1FE508D7AEBB - d222a2260b942f0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; SwiftUI.TupleView&lt;(Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;, AeroNaviMap.AeroNaviMapView, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;, AeroNaviMap.AeroNaviMapView, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0&gt;)&gt;&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;, AeroNaviMap.AeroNaviMapView, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0&gt;)&gt;&gt;)&gt;&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.background&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ShapeStyle&gt;(_: &#x3c4;_1_0, ignoresSafeAreaEdges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0&gt;)&gt; in closure #1 (SwiftUI.GeometryProxy) -&gt; SwiftUI.ZStack&lt;SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;, AeroNaviMap.AeroNaviMapView, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0&gt;)&gt;&gt;)&gt;&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.background&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ShapeStyle&gt;(_: &#x3c4;_1_0, ignoresSafeAreaEdges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0&gt;)&gt;&gt; in AeroNaviMap.HomeView.body.getter : some"
+                  moduleName = "AeroNaviMap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wangyingxu/Desktop/duke/ece/2022%20Fall/ECE%20564/projects/final%20project/currProj/aeronavimap/AeroNaviMap/AeroNaviMap/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "1452">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4FFCCC87-2567-4E67-A35D-D77C93AF5FC0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AeroNaviMap/HomeView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AD71A3AC-2114-4872-94B2-CECCA2FC0218"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "View/MapView/MapAnnotationViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "649"
+            endingLineNumber = "649"
+            landmarkName = "addPointViewAnnotation(at:withMarkerId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4DFE9C81-A7C8-470F-991F-6FC19EBDBCD7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "View/MapView/MapAnnotationViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "645"
+            endingLineNumber = "645"
+            landmarkName = "addPointViewAnnotation(at:withMarkerId:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4DFE9C81-A7C8-470F-991F-6FC19EBDBCD7 - dbd9129d9303306"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AeroNaviMap.MapAnnotationViewController.addPointViewAnnotation(at: __C.CLLocationCoordinate2D, withMarkerId: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "AeroNaviMap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wangyingxu/Desktop/duke/ece/2022%20Fall/ECE%20564/projects/final%20project/currProj/aeronavimap/AeroNaviMap/View/MapView/MapAnnotationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "646"
+                  endingLineNumber = "646"
+                  offsetFromSymbolStart = "2336">
+               </Location>
+               <Location
+                  uuid = "4DFE9C81-A7C8-470F-991F-6FC19EBDBCD7 - edf0d1abf05cf9af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (Swift.Array&lt;AeroNaviMap.NAV&gt;) -&gt; () in AeroNaviMap.MapAnnotationViewController.addPointViewAnnotation(at: __C.CLLocationCoordinate2D, withMarkerId: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "AeroNaviMap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wangyingxu/Desktop/duke/ece/2022%20Fall/ECE%20564/projects/final%20project/currProj/aeronavimap/AeroNaviMap/View/MapView/MapAnnotationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "647"
+                  endingLineNumber = "647"
+                  offsetFromSymbolStart = "168">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "51BAD5DF-D8DE-40A5-A2C7-7D995E8A3F5A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "View/MapView/MapAnnotationViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "634"
+            endingLineNumber = "634"
+            landmarkName = "addPointViewAnnotation(at:withMarkerId:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "51BAD5DF-D8DE-40A5-A2C7-7D995E8A3F5A - dbd9129d930319a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AeroNaviMap.MapAnnotationViewController.addPointViewAnnotation(at: __C.CLLocationCoordinate2D, withMarkerId: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "AeroNaviMap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wangyingxu/Desktop/duke/ece/2022%20Fall/ECE%20564/projects/final%20project/currProj/aeronavimap/AeroNaviMap/View/MapView/MapAnnotationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "634"
+                  endingLineNumber = "634"
+                  offsetFromSymbolStart = "1796">
+               </Location>
+               <Location
+                  uuid = "51BAD5DF-D8DE-40A5-A2C7-7D995E8A3F5A - 7fb4aa59f88e4fe5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Array&lt;AeroNaviMap.OtherAirport&gt;) -&gt; () in AeroNaviMap.MapAnnotationViewController.addPointViewAnnotation(at: __C.CLLocationCoordinate2D, withMarkerId: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "AeroNaviMap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wangyingxu/Desktop/duke/ece/2022%20Fall/ECE%20564/projects/final%20project/currProj/aeronavimap/AeroNaviMap/View/MapView/MapAnnotationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "635"
+                  endingLineNumber = "635"
+                  offsetFromSymbolStart = "168">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C0E756A4-E3A8-4406-BEA9-CEB5152C0CEB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "View/MapView/MapAnnotationViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "623"
+            endingLineNumber = "623"
+            landmarkName = "addPointViewAnnotation(at:withMarkerId:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C0E756A4-E3A8-4406-BEA9-CEB5152C0CEB - dbd9129d9303e31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AeroNaviMap.MapAnnotationViewController.addPointViewAnnotation(at: __C.CLLocationCoordinate2D, withMarkerId: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "AeroNaviMap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wangyingxu/Desktop/duke/ece/2022%20Fall/ECE%20564/projects/final%20project/currProj/aeronavimap/AeroNaviMap/View/MapView/MapAnnotationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "623"
+                  endingLineNumber = "623"
+                  offsetFromSymbolStart = "1232">
+               </Location>
+               <Location
+                  uuid = "C0E756A4-E3A8-4406-BEA9-CEB5152C0CEB - 3f9defcc3a2e8113"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;AeroNaviMap.MediumAirport&gt;) -&gt; () in AeroNaviMap.MapAnnotationViewController.addPointViewAnnotation(at: __C.CLLocationCoordinate2D, withMarkerId: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "AeroNaviMap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wangyingxu/Desktop/duke/ece/2022%20Fall/ECE%20564/projects/final%20project/currProj/aeronavimap/AeroNaviMap/View/MapView/MapAnnotationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "624"
+                  endingLineNumber = "624"
+                  offsetFromSymbolStart = "168">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "02B0930D-042D-4A74-8CF8-0E74009C9030"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "View/MapView/MapAnnotationViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "612"
+            endingLineNumber = "612"
+            landmarkName = "addPointMarker(at:constantsProperty:constantSourceId:pointList:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "02B0930D-042D-4A74-8CF8-0E74009C9030 - dbd9129d9303ca4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AeroNaviMap.MapAnnotationViewController.addPointViewAnnotation(at: __C.CLLocationCoordinate2D, withMarkerId: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "AeroNaviMap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wangyingxu/Desktop/duke/ece/2022%20Fall/ECE%20564/projects/final%20project/currProj/aeronavimap/AeroNaviMap/View/MapView/MapAnnotationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "612"
+                  endingLineNumber = "612"
+                  offsetFromSymbolStart = "668">
+               </Location>
+               <Location
+                  uuid = "02B0930D-042D-4A74-8CF8-0E74009C9030 - 316cc6c56f41169d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;AeroNaviMap.LargeAirport&gt;) -&gt; () in AeroNaviMap.MapAnnotationViewController.addPointViewAnnotation(at: __C.CLLocationCoordinate2D, withMarkerId: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "AeroNaviMap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wangyingxu/Desktop/duke/ece/2022%20Fall/ECE%20564/projects/final%20project/currProj/aeronavimap/AeroNaviMap/View/MapView/MapAnnotationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "613"
+                  endingLineNumber = "613"
+                  offsetFromSymbolStart = "168">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

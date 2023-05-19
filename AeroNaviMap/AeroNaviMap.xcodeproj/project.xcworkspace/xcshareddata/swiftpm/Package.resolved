@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "swiftui-flow-layout",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/globulus/swiftui-flow-layout",
+      "state" : {
+        "revision" : "de7da3440c3b87ba94adfa98c698828d7746a76d",
+        "version" : "1.0.5"
+      }
+    },
+    {
+      "identity" : "swiftuicharts#line-chart",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/willdale/SwiftUICharts#Line-Chart",
+      "state" : {
+        "branch" : "main",
+        "revision" : "9a71bffb72c35960c6836891ca1e13e089532991"
+      }
+    },
+    {
+      "identity" : "wikipediakit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Raureif/WikipediaKit",
+      "state" : {
+        "revision" : "09538e1383017e50a2a940ebc72d0c62c8b4488c",
+        "version" : "3.0.4"
+      }
+    }
+  ],
+  "version" : 2
+}
